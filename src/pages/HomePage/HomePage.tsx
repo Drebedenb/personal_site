@@ -9,7 +9,7 @@ const HomePage = () => {
     return (
         <div className={styles.container}>
             {/*<Navigation/>*/}
-            <TypeWriter content={"ijrjgeogir"} speed={250} />
+            <TypeWriter/>
             <img className={styles.gifRot} src={wave} alt="my-gif" />
         </div>
     );
