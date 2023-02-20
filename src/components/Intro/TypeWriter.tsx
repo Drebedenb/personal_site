@@ -4,7 +4,7 @@ import Typewriter from 'typewriter-effect';
 const TypeWriter = () => {
     return <Typewriter
         options={{
-            strings: ['Web-developer', 'Designer', 'Student'],
+            strings: ['Web-разработчик', 'Fullstack-developer', 'JavaScript-программист'],
             autoStart: true,
             loop: true,
         }}
